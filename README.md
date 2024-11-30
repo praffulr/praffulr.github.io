@@ -1,2 +1,2 @@
 # praffulr.github.io
-Personal webpage of praffulr
+Personal webpage of Prafful Ravuri
